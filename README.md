@@ -6,8 +6,10 @@
 #### Blog Presentation Schedule
 
 August 2 - John, Jeffrey, Jennifer, Jon
+
 August 9 - Juliana, Aubree, Peter, Molly
-August 16 - John, Jeffrey, Jennifer, Jon
+
+August 16 - John, Jeffrey, Jennifer, Jonf
 August 23 - Juliana, Aubree, Peter, Molly
 August 30 - John, Jeffrey, Jennifer, Jon
 September 4 - Juliana, Aubree, Peter, Molly
