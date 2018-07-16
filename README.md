@@ -1,7 +1,7 @@
-<iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_ofeviccfpkbav8cotoadof0pl0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 #### Module 1 Lecture Code and Videos
 
+01 - Hashketball Review [video](https://youtu.be/X02k_C_qD18) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/01-hashketball-review)
 
 #### Blog Presentation Schedule
 
@@ -29,3 +29,4 @@ October 13 - John, Jeffrey, Jennifer, Jon
 
 October 20 - Juliana, Aubree, Peter, Molly
 
+<iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_ofeviccfpkbav8cotoadof0pl0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
