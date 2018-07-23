@@ -1,10 +1,13 @@
-
 #### Module 1 Lecture Code and Videos
 
-* 01 - Hashketball Review [video](https://youtu.be/X02k_C_qD18) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/01-hashketball-review)
-* 02 - Hashes and the Internet [code](https://github.com/learn-co-students/dc-web-071618/tree/master/02-apis-and-the-internet)
-* 03 - Intro to OO [video](https://youtu.be/4E3gf2c4vcI) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/03-intro-to-oo)
-* 04 - One to Many [video](https://youtu.be/1eNPnuMaet8) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/04-one-to-many)
+- 01 - Hashketball Review [video](https://youtu.be/X02k_C_qD18) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/01-hashketball-review)
+- 02 - Hashes and the Internet [code](https://github.com/learn-co-students/dc-web-071618/tree/master/02-apis-and-the-internet)
+- 03 - Intro to OO [video](https://youtu.be/4E3gf2c4vcI) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/03-intro-to-oo)
+- 04 - One to Many [video](https://youtu.be/1eNPnuMaet8) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/04-one-to-many)
+
+- 05 - Has Many Through [code](https://github.com/learn-co-students/dc-web-071618/tree/master/05-has-many-through)
+
+- 06 - SQL Review [video](https://youtu.be/k8HP2P8xpxM) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/06-intro-sql)
 
 #### Blog Presentation Schedule
 
