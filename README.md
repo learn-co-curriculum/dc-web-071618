@@ -9,6 +9,10 @@
 
 - 06 - SQL Review [video](https://youtu.be/k8HP2P8xpxM) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/06-intro-sql)
 
+- 07 - ORMs [code](https://github.com/learn-co-students/dc-web-071618/tree/master/07-intro-to-orms)
+
+- 08 - OO Ruby Review [video](https://youtu.be/LHlYXhYvXTk) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/08-oo-review)
+
 #### Blog Presentation Schedule
 
 August 2 - John, Jeffrey, Jennifer, Jon
