@@ -9,7 +9,8 @@
 - 07 - ORMs [video](https://youtu.be/P6BxzSN4kic) [code](https://github.com/learn-co-students/dc-web-071618/tree/master/07-intro-to-orms)
 - 08 - OO Ruby Review [video](https://youtu.be/LHlYXhYvXTk) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/08-oo-review)
 - 09 - Intro to ActiveRecord [video](https://youtu.be/P6BxzSN4kic) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/09-intro-to-activerecord)
-
+- 10 - ActiveRecord Associations [video](https://youtu.be/6rrw-Pw58IA) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/10-activerecord-associations)
+- 11 - Rack and the Internet [video](https://youtu.be/7BYthkhqhhI) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/11-internet-intro)
 
 #### Blog Presentation Schedule
 
