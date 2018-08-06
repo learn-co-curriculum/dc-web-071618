@@ -11,26 +11,27 @@
 - 09 - Intro to ActiveRecord [video](https://youtu.be/P6BxzSN4kic) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/09-intro-to-activerecord)
 - 10 - ActiveRecord Associations [video](https://youtu.be/6rrw-Pw58IA) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/10-activerecord-associations)
 - 11 - Rack and the Internet [video](https://youtu.be/7BYthkhqhhI) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/11-internet-intro)
+- 13 - Sinatra and MVC [video](https://youtu.be/T-7DxWfd04c) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/13-intro-to-sinatra)
 
 #### Blog Presentation Schedule
 
 August 2 - John, Jeffrey, Jennifer, Jon
 
-August 9 - Juliana, Aubree, Peter, Molly, Laura
+August 9 - Juliana, Aubree, Peter, Molly
 
 August 16 - John, Jeffrey, Jennifer, Jon
 
-August 23 - Juliana, Aubree, Peter, Molly, Laura
+August 23 - Juliana, Aubree, Peter, Molly
 
-August 30 - John, Jeffrey, Jennifer, Jon, Laura
+August 30 - John, Jeffrey, Jennifer, Jon
 
 September 4 - Juliana, Aubree, Peter, Molly
 
-September 13 - John, Jeffrey, Jennifer, Jon, Laura
+September 13 - John, Jeffrey, Jennifer, Jon
 
 September 20 - Juliana, Aubree, Peter, Molly
 
-September 27 - John, Jeffrey, Jennifer, Jon, Laura
+September 27 - John, Jeffrey, Jennifer, Jon
 
 October 4 - Juliana, Aubree, Peter, Molly
 
