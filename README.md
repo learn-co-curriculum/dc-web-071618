@@ -13,7 +13,7 @@
 - 11 - Rack and the Internet [video](https://youtu.be/7BYthkhqhhI) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/11-internet-intro)
 - 13 - Sinatra and MVC [video](https://youtu.be/T-7DxWfd04c) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/13-intro-to-sinatra)
 - 14 - Sinatra and MVC pt 2 [video](https://youtu.be/4PK_vAjNZkA) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/14-intro-to-sinatra-pt2)
-- 15 - Sinatra and Associated Objects [video pt1](https://youtu.be/dqqpXXAV8rQ) | [video pt2]() | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/15-sinatra-associated-objects)
+- 15 - Sinatra and Associated Objects [video pt1](https://youtu.be/dqqpXXAV8rQ) | [video pt2](https://youtu.be/v1ghwMTy2Uw) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/15-sinatra-associated-objects)
 
 #### Blog Presentation Schedule
 
