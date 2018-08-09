@@ -37,8 +37,8 @@ September 27 - John, Jeffrey, Jennifer, Jon
 
 October 4 - Juliana, Aubree, Peter, Molly
 
-October 13 - John, Jeffrey, Jennifer, Jon, Laura
+October 11 - John, Jeffrey, Jennifer, Jon, Laura
 
-October 20 - Juliana, Aubree, Peter, Molly
+October 18 - Juliana, Aubree, Peter, Molly
 
 <iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_ofeviccfpkbav8cotoadof0pl0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
