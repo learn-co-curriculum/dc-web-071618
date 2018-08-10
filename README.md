@@ -1,10 +1,10 @@
 #### Module 1 Lecture Code and Videos
 
 - 01 - Hashketball Review [video](https://youtu.be/X02k_C_qD18) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/01-hashketball-review)
-- 02 - Hashes and the Internet  [video](https://youtu.be/h4OMnjVzfzg) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/02-apis-and-the-internet)
+- 02 - Hashes and the Internet [video](https://youtu.be/h4OMnjVzfzg) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/02-apis-and-the-internet)
 - 03 - Intro to OO [video](https://youtu.be/4E3gf2c4vcI) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/03-intro-to-oo)
 - 04 - One to Many [video](https://youtu.be/1eNPnuMaet8) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/04-one-to-many)
-- 05 - Has Many Through [video](https://youtu.be/8rA9GiqB3hw)  | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/05-has-many-through)
+- 05 - Has Many Through [video](https://youtu.be/8rA9GiqB3hw) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/05-has-many-through)
 - 06 - SQL Review [video](https://youtu.be/k8HP2P8xpxM) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/06-intro-sql)
 - 07 - ORMs [video](https://youtu.be/P6BxzSN4kic) [code](https://github.com/learn-co-students/dc-web-071618/tree/master/07-intro-to-orms)
 - 08 - OO Ruby Review [video](https://youtu.be/LHlYXhYvXTk) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/08-oo-review)
@@ -14,6 +14,7 @@
 - 13 - Sinatra and MVC [video](https://youtu.be/T-7DxWfd04c) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/13-intro-to-sinatra)
 - 14 - Sinatra and MVC pt 2 [video](https://youtu.be/4PK_vAjNZkA) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/14-intro-to-sinatra-pt2)
 - 15 - Sinatra and Associated Objects [video pt1](https://youtu.be/dqqpXXAV8rQ) | [video pt2](https://youtu.be/v1ghwMTy2Uw) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/15-sinatra-associated-objects)
+- 16 - Rails Intro [code](https://github.com/learn-co-students/dc-web-071618/tree/master/16-rails-intro) | [video](https://youtu.be/P4mOUNmQkVU)
 
 #### Blog Presentation Schedule
 
