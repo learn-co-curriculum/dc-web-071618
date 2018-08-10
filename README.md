@@ -11,10 +11,13 @@
 - 09 - Intro to ActiveRecord [video](https://youtu.be/P6BxzSN4kic) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/09-intro-to-activerecord)
 - 10 - ActiveRecord Associations [video](https://youtu.be/6rrw-Pw58IA) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/10-activerecord-associations)
 - 11 - Rack and the Internet [video](https://youtu.be/7BYthkhqhhI) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/11-internet-intro)
+
+#### Module 2 Lecture Code and Videos
+
 - 13 - Sinatra and MVC [video](https://youtu.be/T-7DxWfd04c) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/13-intro-to-sinatra)
 - 14 - Sinatra and MVC pt 2 [video](https://youtu.be/4PK_vAjNZkA) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/14-intro-to-sinatra-pt2)
 - 15 - Sinatra and Associated Objects [video pt1](https://youtu.be/dqqpXXAV8rQ) | [video pt2](https://youtu.be/v1ghwMTy2Uw) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/15-sinatra-associated-objects)
-- 16 - Rails Intro [code](https://github.com/learn-co-students/dc-web-071618/tree/master/16-rails-intro) | [video](https://youtu.be/P4mOUNmQkVU)
+- 16 - Rails Intro [video](https://youtu.be/P4mOUNmQkVU) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/16-rails-intro)
 
 #### Blog Presentation Schedule
 
