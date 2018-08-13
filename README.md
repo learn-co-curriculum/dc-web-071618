@@ -18,6 +18,7 @@
 - 14 - Sinatra and MVC pt 2 [video](https://youtu.be/4PK_vAjNZkA) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/14-intro-to-sinatra-pt2)
 - 15 - Sinatra and Associated Objects [video pt1](https://youtu.be/dqqpXXAV8rQ) | [video pt2](https://youtu.be/v1ghwMTy2Uw) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/15-sinatra-associated-objects)
 - 16 - Rails Intro [video](https://youtu.be/P4mOUNmQkVU) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/16-rails-intro)
+- 17 - Rails CRUD [video](https://youtu.be/FDbOrio82tw) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/17-rails-forms)
 
 #### Blog Presentation Schedule
 
