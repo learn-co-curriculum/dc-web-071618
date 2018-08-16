@@ -21,6 +21,7 @@
 - 17 - Rails CRUD [video](https://youtu.be/FDbOrio82tw) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/17-rails-forms)
 - 18 - Rails Associations [video](https://youtu.be/aSEvlvoPX7w) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/18-rails_associations/snack-tracker)
 - 19 - Rails Validations [video](https://youtu.be/8wsWyID4VzI) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/19-rails-validations)
+- 19.5 - Rails Review [video](https://youtu.be/3AvI05pWwjI) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/19.5-rails-review)
 
 #### Blog Presentation Schedule
 
