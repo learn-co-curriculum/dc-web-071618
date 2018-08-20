@@ -22,6 +22,7 @@
 - 18 - Rails Associations [video](https://youtu.be/aSEvlvoPX7w) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/18-rails_associations/snack-tracker)
 - 19 - Rails Validations [video](https://youtu.be/8wsWyID4VzI) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/19-rails-validations)
 - 19.5 - Rails Review [video](https://youtu.be/3AvI05pWwjI) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/19.5-rails-review)
+- 20 - Sessions and Cookies [video](https://youtu.be/c8uMsg8AVgw) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/20-sessions-and-cookies)
 
 #### Blog Presentation Schedule
 
