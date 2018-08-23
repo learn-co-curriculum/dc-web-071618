@@ -29,10 +29,6 @@ August 16 - John, Jeffrey, Jennifer, Jon
 
 August 23 - Juliana, Aubree, Peter, Molly
 
-August 30 - John, Jeffrey, Jennifer, Jon
-
-September 4 - Juliana, Aubree, Peter, Molly
-
 September 13 - John, Jeffrey, Jennifer, Jon
 
 September 20 - Juliana, Aubree, Peter, Molly
