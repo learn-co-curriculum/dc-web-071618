@@ -24,6 +24,9 @@
 - 19.5 - Rails Review [video](https://youtu.be/3AvI05pWwjI) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/19.5-rails-review)
 - 20 - Sessions and Cookies [video](https://youtu.be/c8uMsg8AVgw) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/20-sessions-and-cookies)
 
+#### Module 3 Lecture Code and Videos
+- 22 - Intro to JS [video](https://youtu.be/kx0wbnRIovA) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/22-intro-to-js)
+
 #### Blog Presentation Schedule
 
 August 2 - John, Jeffrey, Jennifer, Jon
