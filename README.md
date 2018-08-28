@@ -26,6 +26,7 @@
 
 #### Module 3 Lecture Code and Videos
 - 22 - Intro to JS [video](https://youtu.be/kx0wbnRIovA) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/22-intro-to-js)
+- 23 - JS Functions and Scope [video part 1](https://www.youtube.com/watch?v=2kYzM7bbDIw) [video part 2](https://www.youtube.com/watch?v=_jK7-1YrOHU&index=14) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/23-functions-scope-iteration)
 
 #### Blog Presentation Schedule
 
