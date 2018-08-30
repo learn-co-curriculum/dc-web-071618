@@ -33,23 +33,23 @@
 
 #### Blog Presentation Schedule
 
-August 2 - John, Jeffrey, Jennifer, Jon
+August 2 - John, Jeffrey, Jennifer, Jon, Sydney
 
 August 9 - Juliana, Aubree, Peter, Molly
 
-August 16 - John, Jeffrey, Jennifer, Jon
+August 16 - John, Jeffrey, Jennifer, Jon, Sydney
 
 August 23 - Juliana, Aubree, Peter, Molly
 
-September 13 - John, Jeffrey, Jennifer, Jon
+September 13 - John, Jeffrey, Jennifer, Jon, Sydney
 
 September 20 - Juliana, Aubree, Peter, Molly
 
-September 27 - John, Jeffrey, Jennifer, Jon
+September 27 - John, Jeffrey, Jennifer, Jon, Sydney
 
 October 4 - Juliana, Aubree, Peter, Molly
 
-October 11 - John, Jeffrey, Jennifer, Jon, Laura
+October 11 - John, Jeffrey, Jennifer, Jon, Sydney
 
 October 18 - Juliana, Aubree, Peter, Molly
 
