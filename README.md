@@ -25,11 +25,13 @@
 - 20 - Sessions and Cookies [video](https://youtu.be/c8uMsg8AVgw) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/20-sessions-and-cookies)
 
 #### Module 3 Lecture Code and Videos
+
 - 22 - Intro to JS [video](https://youtu.be/kx0wbnRIovA) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/22-intro-to-js)
 - 23 - JS Functions and Scope [video part 1](https://www.youtube.com/watch?v=2kYzM7bbDIw) [video part 2](https://www.youtube.com/watch?v=_jK7-1YrOHU&index=14) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/23-functions-scope-iteration)
 - 24 - Functional Programming [video](https://www.youtube.com/watch?v=w_CsnGNukxs) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/24-functional-programming)
 - 25 - Intro to the DOM [video part 1](https://www.youtube.com/watch?v=_xSGeXwxrLQ) [video part 2](https://www.youtube.com/watch?v=RzYDtn8j3wA) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/25-dom)
 - 26 - Event Listeners [video](https://youtu.be/efVw82cVIug) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/26-event-listeners)
+- 27 - Dom Challenge Review [video](https://youtu.be/AX9zuL_DxWI) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/27-dom-challenge-lab-review)
 
 #### Blog Presentation Schedule
 
