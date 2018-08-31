@@ -32,6 +32,7 @@
 - 25 - Intro to the DOM [video part 1](https://www.youtube.com/watch?v=_xSGeXwxrLQ) [video part 2](https://www.youtube.com/watch?v=RzYDtn8j3wA) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/25-dom)
 - 26 - Event Listeners [video](https://youtu.be/efVw82cVIug) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/26-event-listeners)
 - 27 - Dom Challenge Review [video](https://youtu.be/AX9zuL_DxWI) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/27-dom-challenge-lab-review)
+- 28 - Fetch [video part 1](https://www.youtube.com/watch?v=Qqud8NR4RbE) [video part 2](https://youtu.be/0YDCbrwVX00) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/28-promises-and-fetch)
 
 #### Blog Presentation Schedule
 
