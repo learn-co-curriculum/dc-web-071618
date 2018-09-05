@@ -35,6 +35,7 @@
 - 28 - Fetch [video part 1](https://www.youtube.com/watch?v=Qqud8NR4RbE) [video part 2](https://youtu.be/0YDCbrwVX00) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/28-promises-and-fetch)
 - 29 - this [video](https://youtu.be/MENlCAE1r1Y) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/29-this)
 - 30 - Objects and Prototype [video](https://youtu.be/m-SouUtFAEE) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/30-objects-and-prototype)
+- 31 - PseudoCoding and Planning (Ice Cream App) [video](https://youtu.be/OE8vF-MhjTA) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/icecream_maker_js_practice)
 
 #### Blog Presentation Schedule
 
