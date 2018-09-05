@@ -36,7 +36,7 @@
 - 29 - this [video](https://youtu.be/MENlCAE1r1Y) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/29-this)
 - 30 - Objects and Prototype [video](https://youtu.be/m-SouUtFAEE) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/30-objects-and-prototype)
 - 31 - PseudoCoding and Planning (Ice Cream App) [video](https://youtu.be/OE8vF-MhjTA) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/icecream_maker_js_practice)
-- 32 - Toy Tale Review[code](https://github.com/learn-co-students/dc-web-071618/tree/master/31-js-toy-tale-review) | [video](https://youtu.be/6vAUCJk3CHI)
+- 32 - Toy Tale Review [code](https://github.com/learn-co-students/dc-web-071618/tree/master/31-js-toy-tale-review) | [video](https://youtu.be/6vAUCJk3CHI)
 
 #### Blog Presentation Schedule
 
