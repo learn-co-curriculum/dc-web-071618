@@ -38,6 +38,7 @@
 - PseudoCoding and Planning (Ice Cream App) [video](https://youtu.be/OE8vF-MhjTA) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/icecream_maker_js_practice)
 - 31 - Toy Tale Review [code](https://github.com/learn-co-students/dc-web-071618/tree/master/31-js-toy-tale-review) | [video](https://youtu.be/6vAUCJk3CHI)
 - 32 - Rails API [video part 1](https://youtu.be/49HiN7beoVw) [video part 2](https://youtu.be/aQJ4tR196OM) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/32-Rails-API)
+- 33 - TIPS [video](https://youtu.be/3-6uyj6MTMQ) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/33-TIPS-mod-3) 
 
 #### Blog Presentation Schedule
 
