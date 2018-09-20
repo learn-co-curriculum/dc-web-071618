@@ -41,7 +41,7 @@
 - 33 - TIPS [video](https://youtu.be/3-6uyj6MTMQ) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/33-TIPS-mod-3)
 - 34 - Intro to React [video pt. 1](https://youtu.be/AuYJ5ss7oRM) [video pt. 2](https://youtu.be/ZASrfy36zeo) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/34-intro-to-react)
 - 35 - React State [video] | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/35-react-state)
-- 36 - React Pets Lab Review [video] | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/36-pets-review)
+- 36 - React Pets Lab Review [video](https://youtu.be/SxJF-lzyTKs) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/36-pets-review)
 
 #### Blog Presentation Schedule
 
