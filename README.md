@@ -45,24 +45,14 @@
 
 #### Blog Presentation Schedule
 
-August 2 - John, Jeffrey, Jennifer, Jon
-
-August 9 - Juliana, Aubree, Peter, Molly
-
-August 16 - John, Jeffrey, Jennifer, Jon
-
-August 23 - Juliana, Aubree, Peter, Molly
-
-September 13 - John, Jeffrey, Jennifer, Jon, Sydney
-
 September 20 - Juliana, Aubree, Peter, Molly
 
-September 27 - John, Jeffrey, Jennifer, Jon, Sydney
+September 27 - John R, Jeffrey, Jennifer, Jon, Sydney
 
-October 4 - Juliana, Aubree, Peter, Molly
+October 4 - Juliana, Aubree, Peter, Molly, John D
 
-October 11 - John, Jeffrey, Jennifer, Jon, Sydney
+October 11 - John R, Jeffrey, Jennifer, Jon, Sydney
 
-October 18 - Juliana, Aubree, Peter, Molly
+October 18 - Juliana, Aubree, Peter, Molly, John D
 
 <iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_ofeviccfpkbav8cotoadof0pl0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
