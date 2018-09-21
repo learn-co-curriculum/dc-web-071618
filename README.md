@@ -44,6 +44,7 @@
 - 36 - React Pets Lab Review [video](https://youtu.be/SxJF-lzyTKs) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/36-pets-review)
 - 37 React Component Lifecycle [video](https://youtu.be/m8gLC-C6slI) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/37-react-component-lifecycle)
 - 38 - React Hogs Lab Review [video](https://youtu.be/OCX5auDw8Vs) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/38-hogs-review)
+- 39 - React Best Practices [video](https://youtu.be/B1IArTphY1k) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/39-react-best-practices)
 
 #### Blog Presentation Schedule
 
