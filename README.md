@@ -40,8 +40,9 @@
 - 32 - Rails API [video part 1](https://youtu.be/49HiN7beoVw) [video part 2](https://youtu.be/aQJ4tR196OM) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/32-Rails-API)
 - 33 - TIPS [video](https://youtu.be/3-6uyj6MTMQ) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/33-TIPS-mod-3)
 - 34 - Intro to React [video pt. 1](https://youtu.be/AuYJ5ss7oRM) [video pt. 2](https://youtu.be/ZASrfy36zeo) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/34-intro-to-react)
-- 35 - React State [video] | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/35-react-state)
+- 35 - React State [1 - props](https://youtu.be/9yGY5I4JuH8) [2 - forms](https://youtu.be/U0Nm05uN3x4) [3 - more thinking in react](https://youtu.be/fGZCOmi2qXI) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/35-react-state)
 - 36 - React Pets Lab Review [video](https://youtu.be/SxJF-lzyTKs) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/36-pets-review)
+- 37 React Component Lifecycle [video](https://youtu.be/m8gLC-C6slI) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/37-react-component-lifecycle)
 - 38 - React Hogs Lab Review [video](https://youtu.be/OCX5auDw8Vs) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/38-hogs-review)
 
 #### Blog Presentation Schedule
