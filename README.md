@@ -42,6 +42,7 @@
 - 34 - Intro to React [video pt. 1](https://youtu.be/AuYJ5ss7oRM) [video pt. 2](https://youtu.be/ZASrfy36zeo) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/34-intro-to-react)
 - 35 - React State [video] | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/35-react-state)
 - 36 - React Pets Lab Review [video](https://youtu.be/SxJF-lzyTKs) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/36-pets-review)
+- 38 - React Hogs Lab Review [video](https://youtu.be/OCX5auDw8Vs) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/38-hogs-review)
 
 #### Blog Presentation Schedule
 
