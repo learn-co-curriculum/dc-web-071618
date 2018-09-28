@@ -46,6 +46,8 @@
 - 38 - React Hogs Lab Review [video](https://youtu.be/OCX5auDw8Vs) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/38-hogs-review)
 - 39 - React Best Practices [video](https://youtu.be/B1IArTphY1k) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/39-react-best-practices)
 - 41 - React Sushi Saga Lab Review [video](https://youtu.be/ZdB1KWUJZa0) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/41-sushi-saga-review)
+- 42 - React Router [video](https://youtu.be/o39k3ps3fTM) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/42-react-router)
+- 43 - JWT Auth [pt.1](https://youtu.be/tsMfPEZEmKo) [pt. 2]() | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/43-jwt-auth)
 
 #### Blog Presentation Schedule
 
