@@ -51,8 +51,6 @@
 
 #### Blog Presentation Schedule
 
-September 27 - John R, Jeffrey, Jennifer, Jon, Sydney
-
 October 4 - Juliana, Aubree, Peter, Molly, John D
 
 October 11 - John R, Jeffrey, Jennifer, Jon, Sydney
