@@ -39,6 +39,8 @@
 - 31 - Toy Tale Review [code](https://github.com/learn-co-students/dc-web-071618/tree/master/31-js-toy-tale-review) | [video](https://youtu.be/6vAUCJk3CHI)
 - 32 - Rails API [video part 1](https://youtu.be/49HiN7beoVw) [video part 2](https://youtu.be/aQJ4tR196OM) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/32-Rails-API)
 - 33 - TIPS [video](https://youtu.be/3-6uyj6MTMQ) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/33-TIPS-mod-3)
+
+### Module 4 Lecture Code and Videos
 - 34 - Intro to React [video pt. 1](https://youtu.be/AuYJ5ss7oRM) [video pt. 2](https://youtu.be/ZASrfy36zeo) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/34-intro-to-react)
 - 35 - React State [1 - props](https://youtu.be/9yGY5I4JuH8) [2 - forms](https://youtu.be/U0Nm05uN3x4) [3 - more thinking in react](https://youtu.be/fGZCOmi2qXI) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/35-react-state)
 - 36 - React Pets Lab Review [video](https://youtu.be/SxJF-lzyTKs) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/36-pets-review)
@@ -48,6 +50,7 @@
 - 41 - React Sushi Saga Lab Review [video](https://youtu.be/ZdB1KWUJZa0) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/41-sushi-saga-review)
 - 42 - React Router [video](https://youtu.be/o39k3ps3fTM) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/42-react-router)
 - 43 - JWT Auth [pt.1](https://youtu.be/tsMfPEZEmKo) [pt. 2]() | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/43-jwt-auth)
+- 44 Intro to Redux [intro video](https://youtu.be/O5oyqqiAbNM) | [slides](https://docs.google.com/presentation/d/1IIzo1y-nHkQEGtEhDiq7NevbTipq0jGj9XjOs4hLE9Q/edit#slide=id.g342b7ede26_0_19)
 
 #### Blog Presentation Schedule
 
