@@ -50,7 +50,12 @@
 - 41 - React Sushi Saga Lab Review [video](https://youtu.be/ZdB1KWUJZa0) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/41-sushi-saga-review)
 - 42 - React Router [video](https://youtu.be/o39k3ps3fTM) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/42-react-router)
 - 43 - JWT Auth [pt.1](https://youtu.be/tsMfPEZEmKo) [pt. 2]() | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/43-jwt-auth)
-- 44 Intro to Redux [intro video](https://youtu.be/O5oyqqiAbNM) | [slides](https://docs.google.com/presentation/d/1IIzo1y-nHkQEGtEhDiq7NevbTipq0jGj9XjOs4hLE9Q/edit#slide=id.g342b7ede26_0_19)
+- Intro to Redux [intro video](https://youtu.be/O5oyqqiAbNM) | [slides](https://docs.google.com/presentation/d/1IIzo1y-nHkQEGtEhDiq7NevbTipq0jGj9XjOs4hLE9Q/edit#slide=id.g342b7ede26_0_19)
+- 44 Redux Actions and Reducers [video](https://youtu.be/ATgnaD-GQhc) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/44-redux-actions-reducers)
+- 45 React Redux [video](https://youtu.be/Gg_cfgRXnRM) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/45-react-redux)
+- 46 Organizing Redux [video](https://youtu.be/hQgCUXHwz14) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/46-organizing-redux)
+- 47 bindActionCreators [video](https://youtu.be/qM8Lu2pjNSE) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/47-bind-action-creators)
+- 48 Redux Thunk [video](https://youtu.be/ufIWyFdTGfw) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/48-redux-thunk)
 
 #### Blog Presentation Schedule
 
