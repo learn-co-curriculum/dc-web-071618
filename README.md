@@ -55,7 +55,7 @@
 - 45 React Redux [video](https://youtu.be/Gg_cfgRXnRM) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/45-react-redux)
 - 46 Organizing Redux [video](https://youtu.be/hQgCUXHwz14) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/46-organizing-redux)
 - 47 bindActionCreators [video](https://youtu.be/qM8Lu2pjNSE) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/47-bind-action-creators)
-- 48 Redux Thunk [video](https://youtu.be/ufIWyFdTGfw) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/48-redux-thunk)
+- 48 Redux Thunk [video](https://youtu.be/ufIWyFdTGfw) [review video](https://youtu.be/Mpl2rKiQKE8) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/48-redux-thunk)
 
 #### Blog Presentation Schedule
 
