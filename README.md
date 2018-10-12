@@ -49,7 +49,7 @@
 - 39 - React Best Practices [video](https://youtu.be/B1IArTphY1k) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/39-react-best-practices)
 - 41 - React Sushi Saga Lab Review [video](https://youtu.be/ZdB1KWUJZa0) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/41-sushi-saga-review)
 - 42 - React Router [video](https://youtu.be/o39k3ps3fTM) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/42-react-router)
-- 43 - JWT Auth [pt.1](https://youtu.be/tsMfPEZEmKo) [pt. 2]() | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/43-jwt-auth)
+- 43 - JWT Auth [pt.1](https://youtu.be/tsMfPEZEmKo) [pt. 2](https://youtu.be/nqUNTSezHaY) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/43-jwt-auth)
 - Intro to Redux [intro video](https://youtu.be/O5oyqqiAbNM) | [slides](https://docs.google.com/presentation/d/1IIzo1y-nHkQEGtEhDiq7NevbTipq0jGj9XjOs4hLE9Q/edit#slide=id.g342b7ede26_0_19)
 - 44 Redux Actions and Reducers [video](https://youtu.be/ATgnaD-GQhc) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/44-redux-actions-reducers)
 - 45 React Redux [video](https://youtu.be/Gg_cfgRXnRM) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/45-react-redux)
