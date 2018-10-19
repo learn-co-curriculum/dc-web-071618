@@ -57,6 +57,7 @@
 - 47 bindActionCreators [video](https://youtu.be/qM8Lu2pjNSE) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/47-bind-action-creators)
 - 48 Redux Thunk [video](https://youtu.be/ufIWyFdTGfw) [review video](https://youtu.be/Mpl2rKiQKE8) | [code](https://github.com/learn-co-students/dc-web-071618/tree/master/48-redux-thunk)
 - 50 React-Redux Testing with Jest and Enzyme [code](https://github.com/learn-co-students/dc-web-071618/tree/master/50-react-redux-testing/readit)
+- 51 Testify: A Refactoring Story [code](https://github.com/learn-co-students/dc-web-071618/tree/master/51-testify-refactoring) | [video](https://youtu.be/J9cEcdvqctw)
 
 #### Blog Presentation Schedule
 
